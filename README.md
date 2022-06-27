@@ -1,2 +1,3 @@
-# Postgresql
-A simple SQL project related to book store inventory database management.
+Book-Store-Inventory-Management
+
+A simple Postgresql project related to book store inventory database management.
