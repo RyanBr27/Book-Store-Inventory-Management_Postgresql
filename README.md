@@ -1,2 +1,2 @@
-# FinanceData_SQL
-A simple SQL project related to the stock market and investing.
+# Postgresql
+A simple SQL project related to book store inventory database management.
